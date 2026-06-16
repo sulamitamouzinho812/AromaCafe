@@ -39,4 +39,4 @@ O objetivo é demonstrar como o Git permite que várias pessoas trabalhem simult
 
 ## 📌 Observação
 
-Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para apoiar aulas introdutórias de Git, GitHub, HTML e CSS.
+Este projeto possui finalidade exclusivamente educacional e foi desenvolvido para apoiar aulas introdutórias de Git, GitHub, HTML e CSS..
