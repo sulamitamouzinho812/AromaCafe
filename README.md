@@ -20,7 +20,7 @@ A Aroma Café é uma cafeteria fictícia criada para servir como exemplo em ativ
 1. Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Livia-Rachell/AromaCafe.git
 ```
 
 2. Acesse a pasta do projeto:
